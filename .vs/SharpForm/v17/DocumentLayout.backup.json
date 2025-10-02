@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\__Code\\SharpForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|e:\\__code\\sharpform\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|e:\\__code\\sharpform\\apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|solutionrelative:apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 99,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\__Code\\SharpForm\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\__Code\\SharpForm\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T06:55:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UrlList.json",
               "DocumentMoniker": "E:\\__Code\\SharpForm\\ApiConnector\\UrlList.json",
               "RelativeDocumentMoniker": "ApiConnector\\UrlList.json",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\__Code\\SharpForm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApiConnector.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "E:\\__Code\\SharpForm\\ApiConnector\\ApiConnector.cs",
               "RelativeDocumentMoniker": "ApiConnector\\ApiConnector.cs",
@@ -68,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApiConnector.cs",
               "DocumentMoniker": "E:\\__Code\\SharpForm\\ApiConnector\\ApiConnector.cs",
               "RelativeDocumentMoniker": "ApiConnector\\ApiConnector.cs",
               "ToolTip": "E:\\__Code\\SharpForm\\ApiConnector\\ApiConnector.cs",
               "RelativeToolTip": "ApiConnector\\ApiConnector.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T06:25:19.616Z",
               "EditorCaption": ""

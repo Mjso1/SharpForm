@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|solutionrelative:apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|e:\\__code\\sharpform\\apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|E:\\__Code\\SharpForm\\apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6B19EB1F-C864-4007-8F10-2C95E50EDF0B}|SharpForm.csproj|solutionrelative:apiconnector\\apiconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "E:\\__Code\\SharpForm\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-02T06:55:35.333Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ApiConnector\\UrlList.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-02T06:39:43.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T06:39:43.598Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:30:37.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T06:30:37.15Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "ToolTip": "E:\\__Code\\SharpForm\\ApiConnector\\ApiConnector.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ApiConnector\\ApiConnector.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:30:08.124Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-10-02T06:30:08.124Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "ApiConnector\\ApiConnector.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:25:19.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T06:25:19.616Z"
             }
           ]
         }
