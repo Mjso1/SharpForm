@@ -11,7 +11,8 @@ namespace SharpForm
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new ApiConnector.ApiConnector()); // ApiConnector 네임스페이스 안의 ApiConnector 클래스 사용
         }
     }
 }

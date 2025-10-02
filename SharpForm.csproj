@@ -9,4 +9,8 @@
     <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy &quot;$(ProjectDir)ApiConnector\UrlList.json&quot; &quot;$(TargetDir)UrlList.json&quot;" />
+  </Target>
+
 </Project>
